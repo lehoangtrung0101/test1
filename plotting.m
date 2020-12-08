@@ -1,7 +1,7 @@
 AB=1; BC=1.5; ome1=1; alp1=-1;
 %position of B;C
 xA=0; yA=0;
-maxphi1=340; dphi1=1;
+maxphi1=330; dphi1=1;
 n=round(maxphi1/dphi1);
 for i=1:n+1
     phi(i)=(i-1)*dphi1;
