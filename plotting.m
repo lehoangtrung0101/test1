@@ -2,7 +2,7 @@ AB=1; BC=1.5; ome1=1; alp1=-1;
 %position of B;C
 xA=0; yA=0;
 
-maxphi1=350; dphi1=1;
+maxphi1=330; dphi1=1;
 
 maxphi1=350; dphi1=1;
 
